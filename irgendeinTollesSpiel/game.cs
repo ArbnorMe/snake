@@ -30,7 +30,7 @@ namespace irgendeinTollesSpiel
 
         public game()
         {
-            // Nicht leaschen!
+            // Nicht leaschen! .
             InitializeComponent();
         }
 
